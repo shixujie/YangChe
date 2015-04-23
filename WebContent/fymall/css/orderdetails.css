@@ -1,0 +1,473 @@
+
+#logo{
+padding-left:200px;
+float:left
+}
+
+
+.progress 
+.progress-2{
+width:481px;
+background:url(http://misc.360buyimg.com/purchase/trade/skin/i/step2.png) no-repeat;
+height:70px;
+overflow:hidden;
+padding-top:23px
+float:right
+}
+.progress {
+padding-top:6px;
+float:right;
+padding-right:200px;
+}
+.progress li{
+text-align:center;
+line-height:60px;
+width:160px;
+float:left;
+height:23px;
+color:#bce8a3;
+}
+.progress li.s2{
+color:#7abd54;
+width:161px;
+}
+.progress li.s3{
+color:#aaaaaa;
+}
+
+.orderaddress{
+width: 990px;
+margin: 0 auto;
+margin-bottom: 20px;
+}
+.orderad2{
+width: 988px;
+border: 1px solid #ddd;
+}
+.mt{
+background-color:#aaaaaa;
+}
+
+.checkout-steps .step-current {
+width: 984px;
+margin: -1px;
+border: 3px solid #f60;
+position: relative;
+}
+
+.checkout-steps .step-title {
+height: 45px;
+padding: 0 20px;
+line-height: 45px;
+position: relative;
+}
+
+.checkout-steps .step-current .step-title strong, .checkout-steps .step-complete .step-title strong {
+color: #000;
+}
+
+.checkout-steps .step-action {
+padding-left: 10px;
+color: #005ea7;
+font-size: 12px;
+font-weight: 400;
+}
+
+#checkout .step-complete .sbox-wrap {
+padding: 0 44px;
+}
+
+#checkout .sbox {
+padding: 0px 0 20px;
+}
+#consignee .item-selected, #part-invoice .item-selected {
+background-color: #fff4d3;
+height:20px;
+}
+#consignee .item .hookbox, #part-invoice .item .hookbox {
+margin: -2px 5px 0 8px;
+}
+
+.form label, .form input, .form select, .form textarea, .form button, .form .label {
+float: left;
+font-size: 12px;
+}
+
+#consignee .list, .invoice-form .list {
+padding: 5px 0;
+overflow: hidden;
+zoom: 1;
+}
+#consignee .list .label, .invoice-form .list .label {
+width: 85px;
+height: 26px;
+margin-right: 5px;
+float: left;
+color: #666;
+line-height: 26px;
+text-align: right;
+}
+#consignee .list .label em, .invoice-form .list .label em {
+margin-right: 5px;
+color: #f60;
+font-family: sans-serif;
+}
+.checkout-steps{
+border:solid #B45B3E;
+}
+#consignee .list .field {
+height: 26px;
+float: left;
+line-height: 26px;
+}
+#consignee .textbox, .invoice-form .textbox {
+width: 138px;
+height: 25px;
+border: 1px solid #ccc;
+padding: 4px 3px;
+font-family: Arial,"\5b8b\4f53",sans-serif;
+}
+#consignee .phone, .invoice-form .phone {
+float: left;
+}
+#consignee .phone span, .invoice-form .phone em {
+color: #666;
+}
+#consignee .form .form-tip {
+padding-left: 10px;
+float: left;
+}
+#consignee .form-btn {
+height: 30px;
+padding-top: 4px;
+}
+#consignee .form-btn {
+height: 30px;
+padding-top: 10px;
+padding-left: 20px;
+}
+ a.btn-submit,  a.btn-submit:visited,  a.btn-submit:hover {
+color: #fff;
+text-decoration: none;
+}
+ .btn-submit span {
+background: url(http://misc.360buyimg.com/purchase/trade/skin/i/btn-20130725.png) no-repeat 100% -30px;
+}
+
+
+<!--  
+Ö§¸¶·½Ê½
+-->
+.checkout-steps .step {
+border-top: 1px solid #ddd;
+}
+
+.checkout-steps .step-current {
+width: 984px;
+margin: -1px;
+border: 3px solid #ddd;
+position: relative;
+}
+.checkout-steps .step-title {
+height: 45px;
+padding: 0 20px;
+line-height: 45px;
+position: relative;
+}
+.step-right {
+padding-right: 24px;
+height: 20px;
+line-height: 20px;
+padding: 10px 10px 0 0;
+position: absolute;
+top: 2px;
+left: 133px;
+}
+.checkout-steps .step-current .step-title strong, .checkout-steps .step-complete .step-title strong {
+color: #000;
+}
+.step-right span {
+color: #FF6600;
+float: left;
+margin-right: 5px;
+}
+.save-consignee-payship {
+background-color: #FFFDEE;
+border: 1px solid #EDD28B;
+padding: 0 1px 0 3px;
+}
+.checkout-steps .step-action {
+padding-left: 10px;
+color: #005ea7;
+font-size: 12px;
+font-weight: 400;
+}
+.checkout-steps .step-action a, .checkout-steps .step-action a:visited, .checkout-steps .step-action a:hover {
+color: #005ea7;
+}
+#checkout .step-complete .sbox-wrap {
+padding: 0 44px;
+}
+#payment-ship h3, #payment-ship .way-category h4, .step-stitle strong {
+border-bottom: 0px;
+}
+#payment-ship h3 {
+height: 30px;
+border-bottom: 1px dashed #ffe6bc;
+line-height: 30px;
+}
+#payment-ship .mc {
+overflow: visible;
+}
+.m, .mt, .mc, .mb, .sm, .smt, .smc, .smb {
+overflow: hidden;
+zoom: 1;
+}
+#payment-ship .item {
+overflow: hidden;
+zoom: 1;
+line-height: 28px;
+}
+#payment-ship .item .label {
+width: 250px;
+float: left;
+}
+.form label, .form input, .form select, .form textarea, .form button, .form .label {
+float: left;
+font-size: 12px;
+}
+#payment-ship .item .hookbox {
+margin: 7px 5px 0 8px;
+}
+
+#payment-ship .item .field {
+float: left;
+max-width: 680px;
+_width: 680px;
+}
+#payment-ship .item .tip {
+padding: 0 5px 0 0;
+color: #999;
+background: none;
+border: none;
+position: static;
+z-index: inherit;
+box-shadow: 0;
+}
+#payment-ship .item .tip a {
+color: #005EA7;
+}
+.clr {
+display: block;
+overflow: hidden;
+clear: both;
+height: 0;
+line-height: 0;
+font-size: 0;
+}
+#payment-ship .sment-mark {
+padding-left: 25px;
+line-height: 28px;
+display: none;
+}
+#payment-ship .item-selected {
+background-color: #fff4d3;
+}
+.checkout-steps .step {
+border-top: 1px solid #ddd;
+}
+.checkout-steps .step-title {
+height: 45px;
+padding: 0 20px;
+line-height: 45px;
+position: relative;
+}
+.step-right {
+padding-right: 24px;
+height: 20px;
+line-height: 20px;
+padding: 10px 10px 0 0;
+position: absolute;
+top: 2px;
+left: 133px;
+}
+.checkout-steps .step-current .step-title strong, .checkout-steps .step-complete .step-title strong {
+color: #000;
+}
+.checkout-steps .step-title strong {
+color: #999;
+font-size: 14px;
+}
+.checkout-steps .step-action {
+padding-left: 10px;
+color: #005ea7;
+font-size: 12px;
+font-weight: 400;
+}
+font[Attributes Style] {
+color: rgb(176, 176, 176);
+}
+.checkout-steps .step-action {
+padding-left: 10px;
+color: #005ea7;
+font-size: 12px;
+font-weight: 400;
+}
+.checkout-steps .step-title {
+height: 45px;
+padding: 0 20px;
+line-height: 45px;
+position: relative;
+}
+#checkout .step-complete .sbox-wrap {
+padding: 0 44px;
+}
+#part-invoice {
+}
+.sbox-wrap {
+padding: 0 42px;
+}
+#checkout .sbox {
+padding: 0px 0 20px;
+}
+.sbox {
+width: 900px;
+overflow: hidden;
+}
+#checkout .invoice-content {
+line-height: 22px;
+}
+#checkout .invoice-content {
+line-height: 22px;
+}
+.ftx-04 {
+color: #f60;
+}
+.clearfix {
+display: block;
+}
+.clearfix {
+display: inline-table;
+}
+.invoice-prompt dt {
+float: left;
+width: 60px;
+}
+.invoice-prompt dd {
+float: left;
+}
+.clearfix:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+#part-invoice .invoice-note {
+padding: 1px 0 5px 1px;
+color: #f60;
+}
+#part-invoice .invoice-note {
+padding: 1px 0 5px 1px;
+color: #f60;
+}
+.tips-i {
+display: inline-block;
+height: 18px;
+width: 18px;
+/* vertical-align: middle; */
+background: url('http://misc.360buyimg.com/purchase/trade/skin/i/tips-ico.png') no-repeat 0 center;
+}
+.checkout-steps .step {
+border-top: 1px solid #ddd;
+}
+.checkout-steps .step-title {
+height: 45px;
+padding: 0 20px;
+line-height: 45px;
+position: relative;
+}
+#checkout a.return-edit, #checkout a.return-edit:visited {
+color: #005ea7;
+}
+#checkout a.return-edit, #checkout a.return-edit:visited {
+color: #005ea7;
+}
+#checkout a.return-edit {
+float: right;
+font-size: 12px;
+font-weight: 400;
+padding-right: 24px;
+text-decoration: bottom;
+}
+.checkout-steps .step-current .step-title strong, .checkout-steps .step-complete .step-title strong {
+color: #000;
+}
+.checkout-steps .step-title strong {
+color: #999;
+font-size: 14px;
+}
+#checkout .step-complete .sbox-wrap {
+padding: 0 44px;
+}
+#checkout .sbox {
+padding: 0px 0 20px;
+}
+.sbox {
+width: 900px;
+overflow: hidden;
+}
+#order-cart {
+width: 900px;
+}
+#order-cart .order-review {
+width: 900px;
+padding-top: 5px;
+}
+#checkout a.return-edit, #checkout a.return-edit:visited {
+color: #005ea7;
+}
+.checkout-buttons {
+width: 988px;
+height: 50px;
+background-color: #f5f5f5;
+position: relative;
+}
+.group {
+zoom: 1;
+}
+.checkout-buttons .sticky-placeholder {
+width: 988px;
+height: 50px;
+border-top: 1px solid #ddd;
+}
+.checkout-buttons .inner {
+padding-right: 18px;
+float:right;
+}
+.checkout-buttons .checkout-submit-disabled {
+background-color: #aaa;
+;
+line-height: 36px;
+font-weight: bold;
+font-size: 16px;
+
+}
+.checkout-buttons .total {
+padding-right: 18px;
+float: left;
+line-height: 50px;
+font-size: 14px;
+font-weight: 700;
+}
+.checkout-buttons .total strong {
+color: #e4393c;
+font-size: 20px;
+vertical-align: middle;
+font-weight: normal;
+}
+
+
+div.cart .step1 {
+background: url(../img/cart.gif) 0px -38px no-repeat;
+}

@@ -1,0 +1,182 @@
+.right {
+	width: 830px;
+	float: left;
+	
+	margin-left: 120px;
+	margin-top: -635px;
+}
+
+.right div {
+	margin-top: 10px;
+	padding-left: 10px;
+}
+
+.rightTop {
+	background-color: white;
+	margin-top: -635px;
+}
+
+.rightTop div {
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+.rightTop .h {
+	margin-top: -10px;
+}
+
+h3 {
+	height: 35px;
+	line-height: 35px;
+}
+
+.h a {
+	height: 35px;
+	line-height: 35px;
+	float: right;
+	margin-right: 20px;
+	color: blue;
+}
+
+.h h3, a {
+	display: inline;
+}
+
+.h a:hover {
+	text-decoration: underline;
+	color: red;
+}
+
+.rightTop dl {
+	margin-top: 10px;
+}
+
+.rightTop dt {
+	color: black;
+	margin-left: 10px;
+	display: block;
+}
+
+.rightTop dd {
+	display: inline;
+	margin-left: 10px;
+	text-align: left;
+}
+
+.orderList {
+	background-color: white;
+}
+
+.taborder li b {
+	width: 9px;
+	height: 5px;
+	background: url("fymall/img/custImg/order/order-icon-20140811.png")
+		repeat scroll 0px -54px transparent;
+	position: absolute;
+	top: 50%;
+	right: 20px;
+	margin-top: -3px;
+}
+
+.orderList .mt {
+	padding: 15px 10px;
+	display: block;
+}
+
+.orderList .mt .extra-r {
+	width: 455px;
+	float: right;
+	display: inline-block;
+	margin-top: -30px;
+}
+
+.search-01 {
+	float: right;
+}
+
+.search-01 .s-itxt {
+	line-height: 18px;
+	border: 1px solid #ccc;
+	padding: 3px 5px 4px;
+	float: none;
+	width: 195px;
+}
+
+.search-01 .btn-13 {
+	color: #333;
+	background: none repeat scroll 0% 0% #FFF;
+	border-radius: 2px;
+	display: inline-block;
+	height: 18px;
+	line-height: 18px;
+	border: 1px solid #DDD;
+	padding: 2px 14px 3px;
+	cursor: pointer;
+}
+
+table {
+	border-collapse: collapse;
+	empty-cells: show;
+	line-height: 18px;
+	text-align: center;
+	color: #333;
+}
+
+.tb-void {
+	line-height: 18px;
+	text-align: center;
+	border-right: 1px solid #F2F2F2;
+	border-width: 0px 1px 1px;
+	border-style: none solid solid;
+	border-color: -moz-use-text-color #F2F2F2 #F2F2F2;
+	-moz-border-top-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	border-image: none;
+	color: #333;
+	width: 100%;
+}
+
+.tb-void th {
+	background: none repeat scroll 0% 0% #E7E7E7;
+	height: 32px;
+	line-height: 32px;
+	padding: 0 5px;
+	text-align: center;
+	font-weight: 400;
+}
+
+.tb-void td {
+	border: 1px solid #f2f2f2;
+	padding: 10px 10px;
+}
+
+.tb-void span {
+	display: block;
+	width: 110px;
+}
+
+.tb-void span a {
+	color: #4876FF;
+}
+
+.tb-void span a:hover {
+	color: #4876FF;
+	text-decoration: underline;
+}
+
+.tr-th span {
+	display: inline-block;
+	margin-right: 5px;
+	overflow: hidden;
+	vertical-align: middle;
+	height: 24px;
+	line-height: 23px;
+	float: left;
+}
+
+.orderNum {
+	width: 300px;
+	color: #666;
+}

@@ -1,0 +1,248 @@
+.mod-main {
+	background-color: white;
+	width: 86.7%;
+	float: left;
+	margin-left: 12%;
+	position: relative;
+	margin-top: -310px;
+	height: 500px;
+	border-radius: 10px;
+	-ms border-radius: 10px;
+	-moz border-radius: 10px;
+	-webkit border-radius: 10px;
+	-o border-radius: 10px;
+}
+
+.mt ul li {
+	margin-left: 25px;
+	display: inline;
+	height: 35px;
+	line-height: 35px;
+}
+
+.mc .form em {
+	color: red;
+}
+
+.mc .form div {
+	margin-top: 20px;
+}
+
+#nickName {
+	height: 25px;
+	width: 150px;
+}
+
+#realName {
+	height: 25px;
+	width: 150px;
+}
+
+#address {
+	height: 25px;
+	width: 250px;
+	margin-top: 10px;
+}
+
+.item div {
+	display: inline;
+}
+
+.item .label {
+	float: left;
+	height: 18px;
+	line-height: 18px;
+	width: 120px;
+	text-align: right;
+}
+
+.item .f1 {
+	margin-left: 15px;
+}
+
+.item .f1 .sex {
+	width: 15px;
+	height: 15px;
+}
+
+.tip {
+	height: 35px;
+	position: absolute;
+	line-height: 35px;
+	border: 1px solid;
+	border-color: Red;
+	color: red;
+	font-size: 18px;
+	padding: 0 14px;
+	margin: 0 auto;
+	border-radius: 3px;
+	-ms border-radius: 3px;
+	-moz border-radius: 3px;
+	-webkit border-radius: 3px;
+	-o border-radius: 3px;
+	margin-left: 500px;
+	opacity: 0;
+}
+
+.tip em {
+	font-style: normal;
+	font-size: 12px;
+}
+
+.tip span {
+	display: block;
+	width: 0px;
+	height: 0px;
+	overflow: hidden;
+	border: 10px solid transparent;
+	border-right-color: red;
+	position: absolute;
+	top: 2px;
+	margin-left: -34px;
+}
+
+.item .btn {
+	margin-top: 20px;
+	display: inline-block;
+	zoom: 1;
+	height: 36px;
+	line-height: 36px;
+	padding: 0 20px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+	background: #ff4001;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.message {
+	color: red;
+	font-size: 12px;
+}
+/**修改页面css*/
+.fore-1 a {
+	color: red;
+	text-decoration: underline;
+	cursor: default;
+}
+
+.fore-1 a:hover {
+	color: red;
+	text-decoration: underline;
+	cursor: default;
+}
+
+.custPhoto:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+.moreInfo:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+.fore-2 a {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+	cursor: default;
+}
+
+.fore-2 a:hover {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+	cursor: default;
+}
+
+.baseInfo:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+.moreInfo:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+.fore-3 a {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+	cursor: default;
+}
+
+.fore-3 a:hover {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+	cursor: default;
+}
+
+.baseInfo:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+.custPhoto:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+.update-locl .label {
+	float: left;
+	height: 18px;
+	line-height: 18px;
+	width: 120px;
+	text-align: right;
+}
+
+.update-locl #path {
+	height: 30px;
+	width: 200px;
+}
+
+.update-locl .btn {
+	height: 30px;
+	width: 80px;
+}
+
+.item .marry {
+	width: 20px;
+}
+
+.mc #destination {
+	margin-left: 10%;
+}
+
+.item .salary {
+	height: 30px;
+	line-height: 30px;
+}
+
+.item #idNum {
+	height: 30px;
+	line-height: 30px;
+}
+
+.item label {
+	margin-right: 10px;
+}
+
+.getMobileCode {
+	heigth: 36px;
+	line-height: 36px;
+	font-size: 14px;
+	text-align: center;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+	background: #ededed;
+}
+.f1 select{
+	margin-right:10px;
+}

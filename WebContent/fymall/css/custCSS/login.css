@@ -1,0 +1,178 @@
+a {
+	font-size: 12px;
+	color: #6D6D6D;
+	text-decoration: none;
+}
+
+a:hover {
+	font-size: 12px;
+	color: red;
+}
+
+.container {
+	width: 990px;
+	margin: 0px auto;
+	position: relative;
+}
+
+body {
+	
+}
+
+.main-box {
+	margin-top: 10px;
+	border-style: solid;
+	border-width: 2px;
+	height: 800px;
+	background: url(../../img/fy_logo.jpg) no-repeat;
+	background-position: 250px 30px;
+	border-radius: 10px;
+	-ms border-radius: 10px;
+	-moz border-radius: 10px;
+	-webkit border-radius: 10px;
+	-o border-radius: 10px;
+}
+
+.form-box {
+	position: relative;
+	z-index: 2;
+	margin: 0px 30px;
+}
+
+.form-box div {
+	margin-top: 40px;
+}
+
+.form-box .hd {
+	height: 16px;
+	margin: 0px 20px;
+	padding-top: 10px;
+	position: relative;
+	z-index: 1;
+}
+
+.form-box .hd ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+.form-box .hd ul li {
+	list-style: outside none none;
+}
+
+.form-box .hd h2 {
+	display: block;
+	font-size: 14px;
+	padding-left: 10px;
+	color: #333;
+	z-index: 1;
+}
+
+.form-group {
+	
+}
+/* .form-group label{
+	display:block;
+	height:27px;
+	width:27px;
+	line-height:27px;
+	color:#fff;
+	text-align:center;
+	background:url(../../img/custImg/icon-label2.png) no-repeat scroll 50% 7px #ccc;
+	position:absolute;
+	left:0px;
+	text-indent:-9999em;
+	outline:0px none;
+} */
+.form-group input {
+	height: 27px;
+	line-height: 27px;
+	width: 200px;
+}
+
+.form-group .safe {
+	position: relative;
+	padding: 15px 0px 10px;
+	line-height: 26px;
+	min-height: 26px;
+}
+
+.form-group .safe-login {
+	position: relative;
+	height: 22px;
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 22px;
+	padding: 2px 0xp 2px 3px;
+	color: #999;
+	over-flow: hidden;
+	z-index: 5;
+}
+
+.form-group .safe label {
+	color: #6D6D6D;
+	font-size: 12px;
+}
+
+.form-group .checkbox {
+	width: 20px;
+}
+
+.icon-username {
+	top: 32px;
+}
+
+.msg {
+	height: 20px;
+	line-height: 20px;
+	position: absolute;
+	margin-bottom: 10px;
+	color: red;
+	margin: 0 auto;
+	-ms-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-o-border-radius: 3px;
+	opacity: 0;
+}
+
+.msg em {
+	font-style: normal;
+	font-size: 12px;
+}
+/*.ph-label{
+	height:27px;
+	line-height:27px;
+	left:30px;
+}
+.ph-label{
+	position:absolute;
+	padding:0px 0px 0xp 6px;
+	color:#999;
+	opacity:1;
+	transition:all 0.2s ease-out 0s;
+}*/
+.btn {
+	width: 255px;
+	height: 38px;
+	border: 0px none;
+	display: inline-block;
+	overflow: hidden;
+	vertical-align: middle;
+	line-height: 36px;
+	font-size: 16px;
+	font-weight: 700;
+	color: #FFF;
+	background: none repeat scroll 0% 0% #FF4700;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.message {
+	color: red;
+	font-size: 12px;
+}
+
+.loginBtn {
+	
+}

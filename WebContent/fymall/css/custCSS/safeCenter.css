@@ -1,0 +1,148 @@
+.mod-comm {
+	padding: 10px 20px 20px;
+}
+
+.mod-comm .mt {
+	padding: 10px 0px;
+}
+
+.mod-comm .mc {
+	line-height: 20px;
+}
+
+.safe-item-lists {
+	margin-bottom: -31px;
+	overflow: hidden;
+}
+
+.warn-box {
+	background: none repeat scroll 0% 0% #FFFDEE;
+	padding: 5px;
+}
+
+.u-safe .safe-rank05 {
+	background-position: 0px -60px;
+}
+
+.ftx04, .ftx-04 {
+	color: #FF8A15;
+}
+
+.ml10 {
+	margin-left: 10px;
+}
+
+.safe-item {
+	display: block;
+	padding: 30px 0px;
+	border-bottom: 1px solid #E6E6E6;
+	height: 20px;
+}
+
+.safe-item .fore1 {
+	width: 175px;
+	text-align: left;
+	font-family: 微软雅黑;
+	font-size: 18px;
+	padding-left: 25px;
+}
+
+.safe-item .fore2 {
+	border-left: 1px solid #E6E6E6;
+	padding-left: 15px;
+	width: 450px;
+}
+
+.safe-item .fore3 {
+	text-align: center;
+	width: 140px;
+}
+
+.safe-item .fore1, .safe-item .fore2, .safe-item .fore3 {
+	float: left;
+	height: 32px;
+	line-height: 32px;
+}
+
+.safe-item .fore2 .icon-01 {
+	background-position: -64px 0px;
+}
+
+.safe-item .fore1 s, .icon-01 {
+	display: inline-block;
+	width: 32px;
+	height: 33px;
+	background: url("../../img/custImg/icon-msg2013.png") no-repeat scroll
+		0% 0% transparent;
+	vertical-align: middle;
+	margin-right: 33px;
+}
+
+.safe-item .fore1 strong {
+	margin-right: 5px;
+}
+
+.icon-id01 {
+	background: url("../../img/custImg/icon-id20131211.png") repeat scroll
+		0% 0% transparent;
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	line-height: 100px;
+	font-size: 0px;
+	overflow: hidden;
+}
+
+.safe-item a {
+	color: blue;
+}
+
+.fore2 strong {
+	color: red;
+}
+/*预修改密码css perUpdatePwd.jsp*/
+.item .form-text {
+	width: 80px;
+	height: 30px;
+}
+
+.form-label {
+	display: inline;
+	float: left;
+	margin-left: -200px;
+	width: 240px;
+	height: 30px;
+	line-height: 30px;
+	text-align: right;
+}
+
+.btn {
+	display: inline-block;
+	zoom: 1;
+	height: 36px;
+	line-height: 36px;
+	padding: 0 20px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+	background: #ff4001;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
+/**updateMail.jsp-css**/
+
+.item .form-text {
+	border: 1px solid #dedede;
+	width: 202px;
+	height: 17px;
+	line-height: 17px;
+	padding: 9px;
+	font-size: 14px;
+	_margin-left: -3px;
+}
+
+.item .checkcode-text {
+	width: 82px;
+}

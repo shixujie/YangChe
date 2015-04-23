@@ -1,0 +1,135 @@
+.bottom {
+	width: 90%;
+}
+
+hr {
+	width: 80%;
+	height: 10px;
+	background-color: #80ff00;
+	padding-left: 0px;
+}
+
+.center {
+	width: 100%;
+	background-color: #EBEBEB;
+	margin: 0 auto;
+	margin-top: -8px;
+	height: 700px;
+}
+
+.w {
+	width: 950px;
+	margin: 0 auto;
+}
+
+.topMain {
+	float: left;
+	width: 100%;
+}
+
+.tit {
+	float: left;
+	line-height: 32px;
+	font-size: 18px;
+	font-family: "microsoft yahei";
+	margin-right: 20px;
+}
+
+.tit a {
+	color: #333;
+}
+
+.myfy-site {
+	float: left;
+	width: 84px;
+	position: relative;
+	background:;
+}
+
+.myfy-site  dt {
+	margin-top: -8px;
+	padding: 1px 16px;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.myfy-site  dt span {
+	display: inline-block;
+}
+
+.myfy-site  dt b {
+	background: url("../../img/custImg/myfy-common-icon.png") no-repeat
+		scroll -8px -24px transparent;
+	display: inline-block;
+	vertical-align: middle;
+	width: 12px;
+	height: 36px;
+	margin-left: 5px;
+	transition: all 0.2s ease-in 0s;
+}
+
+.myfy-site dd {
+	position: absolute;
+	width: 80px;
+	left: 0px;
+	display: none;
+	text-align: left;
+	background-color: #FFF;
+	z-index: 1;
+	padding: 1px;
+	border-top: 1px solid #DDD;
+	border-left: 1px solid #DDD;
+	border-right: 1px solid #DDD;
+	border-bottom: 1px solid #DDD;
+	border-width: 0px 1px 1px;
+	border-style: none solid solid;
+	border-color: -moz-use-text-color #DDD #DDD;
+	-moz-border-top-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	border-image: none;
+}
+
+.myfy-site dd  a {
+	display: inline-block;
+	width: 100%;
+	line-height: 28px;
+	color: #666;
+	text-decoration: none;
+}
+
+.myfy-site dd  a:hover {
+	text-decoration: underline;
+	color: red;
+}
+
+.myfy-site dd  span {
+	padding-left: 15px;
+}
+
+}
+.leftMenu {
+	float: left;
+	color: #333;
+	padding: 10px 0px;
+}
+
+.leftMenu dl {
+	line-height: 30px;
+	font-size: 14px;
+	width: 100px;
+	
+}
+
+.leftMenu a:hover {
+	text-decoration: underline;
+}
+
+#focusProduct{
+	background-color: white;
+}
+
+.message{
+	display: none;
+}
